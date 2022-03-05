@@ -147,7 +147,7 @@ Tabl.Active = true
 Tabl.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Tabl.BackgroundTransparency = 1.000
 Tabl.Position = UDim2.new(0, 0, 0, 51)
-Tabl.Size = UDim2.new(0, 128, 0, 120)
+Tabl.Size = UDim2.new(0, 128, 0, 259)
 Tabl.CanvasSize = UDim2.new(0, 0, 0, 0)
 Tabl.ScrollBarThickness = 0
 Tabl.AutomaticCanvasSize = Enum.AutomaticSize.Y
@@ -194,13 +194,13 @@ UIPadding_2.PaddingTop = UDim.new(0, 7)
     FrameAlle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     FrameAlle.BackgroundTransparency = 1.000
     FrameAlle.Position = UDim2.new(0.225749552, 0, 0, 0)
-    FrameAlle.Size = UDim2.new(0, 439, 0, 220)
+    FrameAlle.Size = UDim2.new(0, 439, 0, 250)
     FrameAlle.ScrollBarThickness = 6
     FrameAlle.Visible = false
     
     UIListLayout_2.Parent = FrameAlle
     UIListLayout_2.SortOrder = Enum.SortOrder.LayoutOrder
-    UIListLayout_2.Padding = UDim.new(0, 3)
+    UIListLayout_2.Padding = UDim.new(0, 1)
     
     UIPadding_3.Parent = FrameAlle
     UIPadding_3.PaddingTop = UDim.new(0, 10)
