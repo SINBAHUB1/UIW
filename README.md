@@ -194,16 +194,16 @@ UIPadding_2.PaddingTop = UDim.new(0, 7)
     FrameAlle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     FrameAlle.BackgroundTransparency = 1.000
     FrameAlle.Position = UDim2.new(0.225749552, 0, 0, 0)
-    FrameAlle.Size = UDim2.new(0, 439, 0, 250)
-    FrameAlle.ScrollBarThickness = 6
+    FrameAlle.Size = UDim2.new(0, 439, 0, 200)
+    FrameAlle.ScrollBarThickness = 5
     FrameAlle.Visible = false
     
     UIListLayout_2.Parent = FrameAlle
     UIListLayout_2.SortOrder = Enum.SortOrder.LayoutOrder
-    UIListLayout_2.Padding = UDim.new(0, 1)
+    UIListLayout_2.Padding = UDim.new(0, 2)
     
     UIPadding_3.Parent = FrameAlle
-    UIPadding_3.PaddingTop = UDim.new(0, 10)
+    UIPadding_3.PaddingTop = UDim.new(0, 5)
     TabButton.MouseButton1Click:Connect(function()
         for i,v in pairs(Tabl:GetChildren()) do
            if v:IsA"TextButton" then
