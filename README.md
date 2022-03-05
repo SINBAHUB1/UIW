@@ -186,7 +186,7 @@ UIPadding_2.PaddingTop = UDim.new(0, 7)
     TabButton.TextTransparency = 0.5
     
     UIPaddingqw.Parent = TabButton
-    UIPaddingqw.PaddingLeft = UDim.new(0, 5)
+    UIPaddingqw.PaddingLeft = UDim.new(0, 2)
     
     FrameAlle.Name = "FrameAlle"
     FrameAlle.Parent = FrameAll
@@ -194,8 +194,8 @@ UIPadding_2.PaddingTop = UDim.new(0, 7)
     FrameAlle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     FrameAlle.BackgroundTransparency = 1.000
     FrameAlle.Position = UDim2.new(0.225749552, 0, 0, 0)
-    FrameAlle.Size = UDim2.new(0, 310, 0, 120)
-    FrameAlle.ScrollBarThickness = 5
+    FrameAlle.Size = UDim2.new(0, 200, 0, 100)
+    FrameAlle.ScrollBarThickness = 2
     FrameAlle.Visible = false
     
     UIListLayout_2.Parent = FrameAlle
