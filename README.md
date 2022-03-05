@@ -194,7 +194,7 @@ UIPadding_2.PaddingTop = UDim.new(0, 7)
     FrameAlle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     FrameAlle.BackgroundTransparency = 1.000
     FrameAlle.Position = UDim2.new(0.225749552, 0, 0, 0)
-    FrameAlle.Size = UDim2.new(0, 439, 0, 310)
+    FrameAlle.Size = UDim2.new(0, 439, 0, 220)
     FrameAlle.ScrollBarThickness = 6
     FrameAlle.Visible = false
     
